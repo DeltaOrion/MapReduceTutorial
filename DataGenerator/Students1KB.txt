@@ -1,0 +1,6 @@
+13872633,Boyer Laurella,17,English_Advanced:45.29,Entertainment_Industry:32.03,Financial_Services:69.06,Economics:27.37,Chemistry:43.13,Automotive:28.63
+13872632,Hall Pamella,17,English_Advanced:14.18,Design_and_Technology:50.31,Human_Services:36.04,Mathematics_Extension_1:26.31,Earth_and_Environmental_Science:8.03,Mathematics_Standard:12.60
+13872631,Lewis Bobby,17,English_Advanced:0.00,Aboriginal_Studies:53.54,Primary_Industries:61.44,Design_and_Technology:14.64,Tourism,_Travel_and_Events:58.71
+13872630,Miles Marc,18,English_Extension_2:13.67,Investigating_Science:66.01,Ancient_History:17.68,Chemistry:0.00,Personal_Development,_Health_and_Physical_Education:34.54
+13872629,Dolan Lorianna,16,English_Extension_2:19.37,Hospitality:8.76,Construction:88.00,Construction:30.66,Personal_Development,_Health_and_Physical_Education:0.00
+13872628,O'Brien Basil,18,English_Advanced:52.80,Mathematics_Extension_2:41.86,Information_and_Digital_Technology:44.86,Society_and_Culture:64.72,Society_and_Culture:30.31,History_Extension:61.11
